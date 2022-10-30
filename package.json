@@ -1,6 +1,6 @@
 {
   "name": "@akaradat/lps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "find longest palindromic",
   "main": "./src/index.js",
   "bin": {
@@ -10,7 +10,11 @@
     "lint": "eslint",
     "test": "jest"
   },
-  "author": "",
+  "author": "Akrd Kmnc <akrd.kmnc@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akaradat/lps.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.26.0",
