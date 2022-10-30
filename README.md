@@ -1,0 +1,2 @@
+# lgpalin
+ find longest palindromic
