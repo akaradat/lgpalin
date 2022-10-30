@@ -1,11 +1,11 @@
 {
-  "name": "@akaradat/lgpalin",
+  "name": "@akaradat/lps",
   "version": "1.0.0",
   "description": "find longest palindromic",
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
