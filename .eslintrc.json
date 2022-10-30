@@ -2,7 +2,8 @@
   "env": {
     "browser": true,
     "commonjs": true,
-    "es2021": true
+    "es2021": true,
+    "jest": true
   },
   "extends": "airbnb-base",
   "plugins": ["jest"],
@@ -10,5 +11,8 @@
   "parserOptions": {
     "ecmaVersion": "latest"
   },
-  "rules": {}
+  "rules": {
+    "no-plusplus": 0,
+    "comma-dangle": 0
+  }
 }
