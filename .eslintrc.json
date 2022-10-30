@@ -7,7 +7,7 @@
   },
   "extends": "airbnb-base",
   "plugins": ["jest"],
-  "overrides": [],
+  "include": ["src/**/*"],
   "parserOptions": {
     "ecmaVersion": "latest"
   },
