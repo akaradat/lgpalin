@@ -1,6 +1,6 @@
 {
   "name": "@akaradat/lps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "find longest palindromic",
   "main": "./src/index.js",
   "bin": {
